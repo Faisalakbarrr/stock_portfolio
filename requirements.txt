@@ -1,7 +1,6 @@
-streamlit
-pandas
-yfinance
-plotly
-seaborn
 matplotlib
-numpy
+numpy==1.18.1
+pandas
+seaborn
+plotly
+yfinance
