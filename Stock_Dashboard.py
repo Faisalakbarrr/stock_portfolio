@@ -25,6 +25,8 @@ st.sidebar.subheader("Pencarian Data")
 st.sidebar.write("Mengunjungi situs web id.investing.com, Bursa Efek Indonesia dan yahoo finance, mengakses bagian yang menyediakan data historis harga saham closing untuk mendapatkan data harga saham closing yang diinginkan.")
 
 st.title("Dashboard Portofolio Saham")
+st.subheader("TETRIS Program Batch 3: Data Analytics Fast Track Program")
+st.subheader("Faisal Akbar")
 
 # Create tabs
 tab1, tab2, tab3, tab4, tab5, tab6, = st.tabs(["Dashboard Portofolio Saham", "Grafik Harga Closing Saham", "Matriks Korelasi", "Daily Return", "Average Daily Returns", "Daily Cumulative Simple Returns"])
