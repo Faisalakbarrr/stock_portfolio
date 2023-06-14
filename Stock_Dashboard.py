@@ -24,12 +24,14 @@ st.sidebar.write("yahoo finance, id.investing.com dan Bursa Efek Indonesia (idx.
 st.sidebar.subheader("Pencarian Data")
 st.sidebar.write("Mengunjungi situs web id.investing.com, Bursa Efek Indonesia dan yahoo finance, mengakses bagian yang menyediakan data historis harga saham closing untuk mendapatkan data harga saham closing yang diinginkan.")
 
+st.title("Dashboard Portofolio Saham")
+
 # Create tabs
 tab1, tab2, tab3, tab4, tab5, tab6, = st.tabs(["Dashboard Portofolio Saham", "Grafik Harga Closing Saham", "Matriks Korelasi", "Daily Return", "Average Daily Returns", "Daily Cumulative Simple Returns"])
 
 # Set tab as active
 with tab1:
-    st.title("Dashboard Portofolio Saham")
+    st.title("Data Portofolio Saham")
 
     # Daftar simbol saham
     saham = ['KAEF.JK', 'PGAS.JK', 'PTBA.JK', 'SMBR.JK', 'TLKM.JK']
