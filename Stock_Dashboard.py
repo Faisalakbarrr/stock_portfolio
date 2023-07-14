@@ -18,15 +18,15 @@ st.sidebar.write("LinkedIn: [Faisal Akbar](https://www.linkedin.com/in/faisalrak
 st.sidebar.subheader("Identifikasi Masalah")
 st.sidebar.write("Identifikasi permasalahan untuk lima perusahaan BUMN (KAEF, PGAS, PTBA, SMBR, dan TLKM) analisis data portofolio saham periode tahun 2021-2022 adalah sebagai berikut:")
 
-st.sidebar.write("1.Volatilitas harga saham: Selama periode 2021-2022, kelima perusahaan BUMN tersebut mengalami volatilitas harga saham yang signifikan. Pergerakan harga saham yang fluktuatif dapat menjadi tantangan dalam mengelola dan menganalisis portofolio saham.")
+st.sidebar.write("1. Volatilitas harga saham: Selama periode 2021-2022, kelima perusahaan BUMN tersebut mengalami volatilitas harga saham yang signifikan. Pergerakan harga saham yang fluktuatif dapat menjadi tantangan dalam mengelola dan menganalisis portofolio saham.")
 
-st.sidebar.write("2.Dampak pandemi COVID-19: Pandemi COVID-19 dapat memberikan dampak yang signifikan pada kinerja dan harga saham kelima perusahaan ini. Perubahan dalam permintaan, regulasi, dan kebijakan pemerintah terkait pandemi dapat mempengaruhi kinerja dan nilai saham perusahaan.")
+st.sidebar.write("2. Dampak pandemi COVID-19: Pandemi COVID-19 dapat memberikan dampak yang signifikan pada kinerja dan harga saham kelima perusahaan ini. Perubahan dalam permintaan, regulasi, dan kebijakan pemerintah terkait pandemi dapat mempengaruhi kinerja dan nilai saham perusahaan.")
 
-st.sidebar.write("3.Kebijakan pemerintah: Kebijakan pemerintah terkait sektor industri masing-masing perusahaan BUMN dapat mempengaruhi kinerja dan nilai saham. Perubahan kebijakan atau regulasi sektor yang terkait dengan perusahaan dapat mempengaruhi prospek investasi dan kinerja saham.")
+st.sidebar.write("3. Kebijakan pemerintah: Kebijakan pemerintah terkait sektor industri masing-masing perusahaan BUMN dapat mempengaruhi kinerja dan nilai saham. Perubahan kebijakan atau regulasi sektor yang terkait dengan perusahaan dapat mempengaruhi prospek investasi dan kinerja saham.")
 
-st.sidebar.write("4.Perubahan tren industri: Setiap perusahaan menghadapi perubahan tren dalam industri masing-masing, seperti perubahan konsumsi, teknologi, atau permintaan pasar. Perusahaan-perusahaan ini harus mampu beradaptasi dengan perubahan tren tersebut agar dapat mempertahankan kinerja saham yang baik.")
+st.sidebar.write("4. Perubahan tren industri: Setiap perusahaan menghadapi perubahan tren dalam industri masing-masing, seperti perubahan konsumsi, teknologi, atau permintaan pasar. Perusahaan-perusahaan ini harus mampu beradaptasi dengan perubahan tren tersebut agar dapat mempertahankan kinerja saham yang baik.")
 
-st.sidebar.write("5.Faktor ekonomi makro: Faktor ekonomi makro, seperti fluktuasi nilai tukar, inflasi, dan pertumbuhan ekonomi, juga dapat mempengaruhi kinerja dan harga saham kelima perusahaan BUMN ini. Perubahan dalam kondisi ekonomi dapat memberikan dampak signifikan pada nilai portofolio saham.")
+st.sidebar.write("5. Faktor ekonomi makro: Faktor ekonomi makro, seperti fluktuasi nilai tukar, inflasi, dan pertumbuhan ekonomi, juga dapat mempengaruhi kinerja dan harga saham kelima perusahaan BUMN ini. Perubahan dalam kondisi ekonomi dapat memberikan dampak signifikan pada nilai portofolio saham.")
 
 st.sidebar.subheader("Sumber Data Eksternal")
 st.sidebar.write("yahoo finance, id.investing.com dan Bursa Efek Indonesia (idx.co.id)")
